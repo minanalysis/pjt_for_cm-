@@ -1,3 +1,3 @@
-# side_project-
+# side_project
 
-## 1 맘 카페, 소상공인 카페 크롤링을 통한 인사이트 도출 
+
